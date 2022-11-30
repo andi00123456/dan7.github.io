@@ -24,7 +24,7 @@ Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/dan7.github.io/master/images/umr.gif" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/umr.gif" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -33,10 +33,10 @@ Smart Bi-eBikes (SBB): a low cost UGV solution for precision agriculture applica
 <b>Di An</b>, Haoyu Niu, Levi Williams, YangQuan Chen
 <br>
 
-<img src="https://raw.githubusercontent.com/andi00123456/dan7.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://doi.org/10.1117/12.2618728">paper</a></span>
 <br>
-<img src="https://raw.githubusercontent.com/andi00123456/dan7.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5">
 <span>Di An, Haoyu Niu, Levi Williams, and YangQuan Chen "Smart Bi-eBikes (SBB): a low cost UGV solution for precision agriculture applications", Proc. SPIE 12114, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VII, 121140C (3 June 2022); https://doi.org/10.1117/12.2618728></span>
 <!-- <img src="https://raw.githubusercontent.com/andi00123456/dan7.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
 <span><a href="https://sites.google.com/nvidia.com/unsup-mesh-2020">project page</a></span>
