@@ -1,5 +1,3 @@
-# Journal Publications
-
 ---
 title: "Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study,"
 collection: publications
