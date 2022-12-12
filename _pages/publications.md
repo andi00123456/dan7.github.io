@@ -33,7 +33,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "5"> Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes. Guidance, Navigation and Control, 2021. </font>
+<font size = "5"> Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes[@wang2021spatial]. Guidance, Navigation and Control, 2021. </font>
 <br>  
 <font size = "3"> Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen </font>
 <br>
