@@ -40,9 +40,18 @@ author_profile: true
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
-<!-- <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
-<span><a href="https://sites.google.com/view/uvc2019/">project page</a></span>
-<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
+<span>< @article{wang2021spatial,
+  title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},
+  author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},
+  journal={Guidance, Navigation and Control},
+  volume={1},
+  number={01},
+  pages={2150003},
+  year={2021},
+  publisher={World Scientific}
+}>citation</span>
+<br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/njfuwp/nonconventional-PI-spatial-controller">code</a></span>
 </td>
@@ -51,3 +60,77 @@ author_profile: true
 </table>
 
 # Conference Publications
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpeg" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<font size = "5"> A Soil Carbon Content Quantification Method Using A Miniature Millimeter Wave Radar Sensor and Machine Learning. <b> IEEE/MESA, 2022.</b> </font>
+
+<!-- <br>  change line -->
+<br>
+<font size = "3"> <b>Di An</b>, YangQuan Chen, <b>In press</b> </font>
+<br>
+
+<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://doi.org/10.1117/12.2618728">paper</a></span>
+<br> -->
+</td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/ebikes.jpg" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+Smart Bi-eBikes (SBB): a low cost UGV solution for precision agriculture applications. SPIE, 2022.
+  
+<b>Di An</b>, Haoyu Niu, Levi Williams, YangQuan Chen
+<br>
+
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://doi.org/10.1117/12.2618728">paper</a></span>
+<br>
+</td>
+</tr>
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/microwave.png" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+	
+A Non-intrusive Quantification Method for Biochar Water Retention Capacity Using A Portable Microwave Sensor and Machine Learning. ICCMA, 2021
+  
+<b>Di An</b>, Haoyu Niu, YangQuan Chen
+<br>
+
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://ieeexplore.ieee.org/abstract/document/9646210">paper</a></span>
+<br>
+</td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/dtpi2021.png" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+Digital Twin enabled methane emission abatement using networked mobile sensing and mobile actuation. DTPI, 2021
+  
+<b>Di An</b>, YangQuan Chen
+<br>
+
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://ieeexplore.ieee.org/abstract/document/9540133">paper</a></span>
+<br>
+</td>
+</tr>
+</table>
