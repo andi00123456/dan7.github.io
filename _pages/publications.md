@@ -5,8 +5,49 @@ permalink: /publications/
 author_profile: true
 ---
 # Journal Publications
-[1] An, D., Hollenbeck, D., Cao, K., & Chen, Y. Q. (2022). Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study, Journal of Information and Intelligence, in press
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/FADE2Dmovie.gif" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+[1] Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study. Journal of Information and Intelligence, 2022.
+  
+<b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen, <b>In press</b>
 <br>
-[2] Wang, P., An, D., Chen, N., & Chen, Y. Q. (2021). Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes. Guidance, Navigation and Control, 1(01), 2150003.
+
+<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://arxiv.org/abs/1909.11895">arxiv paper</a></span>
+<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/andi00123456/FADE-MAS2D.git">code</a></span>
+</td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/gnc1.png" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+[2] Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes. Guidance, Navigation and Control, 2021.
+  
+Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen
 <br>
+
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
+<br>
+<!-- <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
+<span><a href="https://sites.google.com/view/uvc2019/">project page</a></span>
+<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/njfuwp/nonconventional-PI-spatial-controller">code</a></span>
+</td>
+</tr>
+
+</table>
+
 # Conference Publications
