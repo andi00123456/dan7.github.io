@@ -74,7 +74,7 @@ Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpg" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpeg" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -127,7 +127,7 @@ A Non-intrusive Quantification Method for Biochar Water Retention Capacity Using
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/dtpi2021.jpg" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/dtpi2021.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
