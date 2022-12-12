@@ -57,8 +57,8 @@ biliography: bibliography.bib
              year={2021},<br />
              publisher={World Scientific}<br />
             }</p>
+        </div>
     </div>
-</div>
 </span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
