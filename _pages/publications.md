@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+biliography: bibliography.bib
 ---
 # Journal Publications
 <table style="border: none; border-collapse: collapse;" border="0">
@@ -41,16 +42,7 @@ author_profile: true
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<span>< @article{wang2021spatial,
-  title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},
-  author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},
-  journal={Guidance, Navigation and Control},
-  volume={1},
-  number={01},
-  pages={2150003},
-  year={2021},
-  publisher={World Scientific}
-}>citation</span>
+<span><a [@wang2021spatial]>citation</span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/njfuwp/nonconventional-PI-spatial-controller">code</a></span>
