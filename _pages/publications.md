@@ -42,11 +42,23 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<span><a href="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/bibliography/abc.html"
-  target="popup" 
-  onclick="window.open('abc.html','popup','width=600,height=600,scrollbars=no,resizable=no'); return false;">
-    citation
-  </a>
+<span><a class="trigger_popup_fricc"> citation ></a>
+<div class="hover_bkgr_fricc">
+    <span class="helper"></span>
+    <div>
+        <div class="popupCloseButton">&times;</div>
+        <p>@article{wang2021spatial,
+             title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},<br />
+             author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},<br />
+             journal={Guidance, Navigation and Control},<br />
+             volume={1},<br />
+             number={01},<br />
+             pages={2150003},<br />
+             year={2021},<br />
+             publisher={World Scientific}<br />
+            }</p>
+    </div>
+</div>
 </span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
