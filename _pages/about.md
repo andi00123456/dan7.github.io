@@ -23,7 +23,6 @@ Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/FADE2Dmovie.gif" width="800"/>
 </td>
@@ -46,7 +45,6 @@ Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm 
 </tr>
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/gnc1.png" width="800"/>
 </td>
@@ -68,7 +66,10 @@ Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen
 </td>
 </tr>
 
-<!-- # Selected Conference Publications -->
+</table>
+
+# Selected Conference Publications
+
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
@@ -129,6 +130,7 @@ A Non-intrusive Quantification Method for Biochar Water Retention Capacity Using
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/dtpi2021.jpg" width="800"/>
 </td>
 
+<td style="border-collapse: collapse; border: none;">
 Digital Twin enabled methane emission abatement using networked mobile sensing and mobile actuation. DTPI, 2021
   
 <b>Di An</b>, YangQuan Chen
@@ -139,3 +141,4 @@ Digital Twin enabled methane emission abatement using networked mobile sensing a
 <br>
 </td>
 </tr>
+</table>
