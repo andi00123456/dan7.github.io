@@ -47,7 +47,7 @@ biliography: bibliography.bib
     <span class="helper"></span>
     <span>
         <span class="popupCloseButton">&times;</span>
-        <p>@article{wang2021spatial,
+        <p>@article{wang2021spatial,<br />
              title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},<br />
              author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},<br />
              journal={Guidance, Navigation and Control},<br />
