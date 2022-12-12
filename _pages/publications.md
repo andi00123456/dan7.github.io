@@ -13,9 +13,9 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-[1] Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study. Journal of Information and Intelligence, 2022.
-  
-<b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen, <b>In press</b>
+<font size = "5"> Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study. Journal of Information and Intelligence, 2022. </font>
+<br>
+<font size = "3"> <b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen, <b>In press</b> </font>
 <br>
 
 <!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -32,9 +32,9 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-[2] Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes. Guidance, Navigation and Control, 2021.
-  
-Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen
+<font size = "5"> Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes. Guidance, Navigation and Control, 2021. </font>
+<br>  
+<font size = "3"> Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen </font>
 <br>
 
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
