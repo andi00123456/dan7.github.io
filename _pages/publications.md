@@ -33,7 +33,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "5"> Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes[@wang2021spatial]. Guidance, Navigation and Control, 2021. </font>
+<font size = "5"> Spatial Path Tracking Controllers for Autonomous Ground Vehicles: Conventional and Nonconventional Schemes. Guidance, Navigation and Control, 2021. </font>
 <br>  
 <font size = "3"> Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen </font>
 <br>
@@ -42,7 +42,12 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<span><a [@wang2021spatial]>citation</span>
+<span><a href="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/_pages/abc.html"
+  target="popup" 
+  onclick="window.open('abc.html','popup','width=600,height=600,scrollbars=no,resizable=no'); return false;">
+    citation
+  </a>
+</span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/njfuwp/nonconventional-PI-spatial-controller">code</a></span>
