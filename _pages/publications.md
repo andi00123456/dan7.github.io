@@ -42,6 +42,7 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
+<html>
 <head>
   <style type="text/css">
     .hover_bkgr_fricc {
@@ -112,7 +113,7 @@ biliography: bibliography.bib
         <p>Add any HTML content<br />inside the popup box!</p>
     </div>
 </div>
-<script src="layout/scripts/jquery.min.js"></script>
+<!-- <script src="layout/scripts/jquery.min.js"></script> -->
 <script>
   $(window).load(function () {
     $(".trigger_popup_fricc").click(function(){
@@ -125,8 +126,10 @@ biliography: bibliography.bib
         $('.hover_bkgr_fricc').hide();
     });
 });
+
 </script>
 </body>
+</html>
 
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
