@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 biliography: bibliography.bib
 ---
-
 # Journal Publications
 <table style="border: none; border-collapse: collapse;" border="0">
 
@@ -43,8 +42,6 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 /* Popup container - can be anything you want */
 .popup {
@@ -98,15 +95,10 @@ biliography: bibliography.bib
   to {opacity:1 ;}
 }
 </style>
-</head>
-<body style="text-align:center">
-
 <h2>Popup</h2>
-
 <div class="popup" onclick="myFunction()">Click me to toggle the popup!
   <span class="popuptext" id="myPopup">A Simple Popup!</span>
 </div>
-
 <script>
 // When the user clicks on div, open the popup
 function myFunction() {
@@ -114,7 +106,6 @@ function myFunction() {
   popup.classList.toggle("show");
 }
 </script>
-</body>
 <!-- <span><a class="trigger_popup_fricc"> citation ></a>
 <span class="hover_bkgr_fricc">
     <span class="helper"></span>
