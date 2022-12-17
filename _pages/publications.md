@@ -5,68 +5,6 @@ permalink: /publications/
 author_profile: true
 biliography: bibliography.bib
 ---
-<!-- <link type ="text/css" rel = "stylesheet" href = "popUp.css"/> -->
-<!doctype html>
-<head>
-<style type="text/css"> 
-/* 弹窗 (background) */
-.modal {
-    display: none; /* 默认隐藏 */
-    position: fixed; /* 固定定位 */
-    z-index: 1; /* 设置在顶层 */
-    left: 0;
-    top: 0;
-    width: 100%; 
-    height: 100%;
-    overflow: auto; 
-    background-color: rgb(0,0,0); 
-    background-color: rgba(0,0,0,0.4); 
-}
-/* 弹窗内容 */
-.modal-content {
-    background-color: #fefefe;
-    margin: 15% auto; 
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%; 
-}
-/* 关闭按钮 */
-.close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-}
-.close:hover,
-.close:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-}
-</style>
-<script language="javascript">
-// 获取弹窗
-var modal = document.getElementById('myModal');
-// 打开弹窗的按钮对象
-var btn = document.getElementById("myBtn");
-// 获取 <span> 元素，用于关闭弹窗
-//var span = document.querySelector('.close'); 
-// 点击按钮打开弹窗
-btn.onclick = function() {
-    modal.style.display = "block";
-} 
-// 点击 <span> (x), 关闭弹窗
-//span.onclick = function() {
- //   modal.style.display = "none";
-//}
-// 在用户点击其他地方时，关闭弹窗
-//window.onclick = function(event) {
-//    if (event.target == modal) {
- //       modal.style.display = "none";
- //   }
-//}
-</script> 
-</head>
 
 # Journal Publications
 <table style="border: none; border-collapse: collapse;" border="0">
@@ -105,19 +43,76 @@ btn.onclick = function() {
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<!-- 打开弹窗按钮 -->
-<button id="myBtn">打开弹窗123</button>
+<style>
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+</style>
+</head>
+<body style="text-align:center">
 
-<!-- 弹窗 -->
-<div id="myModal" class="modal">
+<h2>Popup</h2>
 
-  <!-- 弹窗内容 -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>弹窗中的文本...</p>
-  </div>
-
+<div class="popup" onclick="myFunction()">Click me to toggle the popup!
+  <span class="popuptext" id="myPopup">A Simple Popup!</span>
 </div>
+
+<script>
+// When the user clicks on div, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+</body>
 <!-- <span><a class="trigger_popup_fricc"> citation ></a>
 <span class="hover_bkgr_fricc">
     <span class="helper"></span>
