@@ -105,7 +105,7 @@ window.onclick = function(event) {
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
 <!-- 打开弹窗按钮 -->
-<button id="myBtn">打开弹窗</button>
+<button id="myBtn">打开弹窗1</button>
 
 <!-- 弹窗 -->
 <div id="myModal" class="modal">
