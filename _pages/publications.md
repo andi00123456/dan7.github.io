@@ -6,6 +6,7 @@ author_profile: true
 biliography: bibliography.bib
 ---
 <!-- <link type ="text/css" rel = "stylesheet" href = "popUp.css"/> -->
+<head>
 <style> 
 /* 弹窗 (background) */
 .modal {
@@ -20,7 +21,6 @@ biliography: bibliography.bib
     background-color: rgb(0,0,0); 
     background-color: rgba(0,0,0,0.4); 
 }
-
 /* 弹窗内容 */
 .modal-content {
     background-color: #fefefe;
@@ -29,7 +29,6 @@ biliography: bibliography.bib
     border: 1px solid #888;
     width: 80%; 
 }
-
 /* 关闭按钮 */
 .close {
     color: #aaa;
@@ -37,7 +36,6 @@ biliography: bibliography.bib
     font-size: 28px;
     font-weight: bold;
 }
-
 .close:hover,
 .close:focus {
     color: black;
@@ -67,6 +65,8 @@ window.onclick = function(event) {
     }
 }
 </script> 
+</head>
+
 # Journal Publications
 <table style="border: none; border-collapse: collapse;" border="0">
 
