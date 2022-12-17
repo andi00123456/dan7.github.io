@@ -42,17 +42,18 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<p @article{wang2021spatial, <br>
-  title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},<br>
-  author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},<br>
-  journal={Guidance, Navigation and Control},<br>
-  volume={1},<br>
-  number={01},<br>
-  pages={2150003},<br>
-  year={2021},<br>
-  publisher={World Scientific}<br>
+```
+@article{wang2021spatial, 
+  title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},
+  author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},
+  journal={Guidance, Navigation and Control},
+  volume={1},
+  number={01},
+  pages={2150003},
+  year={2021},
+  publisher={World Scientific}
 }
-</p>
+```
 
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
