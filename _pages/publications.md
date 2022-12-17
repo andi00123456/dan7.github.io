@@ -7,7 +7,7 @@ biliography: bibliography.bib
 ---
 <!-- <link type ="text/css" rel = "stylesheet" href = "popUp.css"/> -->
 <head>
-<style> 
+<style type="text/css"> 
 /* 弹窗 (background) */
 .modal {
     display: none; /* 默认隐藏 */
@@ -43,27 +43,27 @@ biliography: bibliography.bib
     cursor: pointer;
 }
 </style>
-<script >
+<script language="javascript">
 // 获取弹窗
 var modal = document.getElementById('myModal');
 // 打开弹窗的按钮对象
 var btn = document.getElementById("myBtn");
 // 获取 <span> 元素，用于关闭弹窗
-var span = document.querySelector('.close'); 
+//var span = document.querySelector('.close'); 
 // 点击按钮打开弹窗
 btn.onclick = function() {
     modal.style.display = "block";
 } 
 // 点击 <span> (x), 关闭弹窗
-span.onclick = function() {
-    modal.style.display = "none";
-}
+//span.onclick = function() {
+ //   modal.style.display = "none";
+//}
 // 在用户点击其他地方时，关闭弹窗
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
+//window.onclick = function(event) {
+//    if (event.target == modal) {
+ //       modal.style.display = "none";
+ //   }
+//}
 </script> 
 </head>
 
@@ -105,7 +105,7 @@ window.onclick = function(event) {
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
 <!-- 打开弹窗按钮 -->
-<button id="myBtn">打开弹窗1</button>
+<button id="myBtn">打开弹窗12</button>
 
 <!-- 弹窗 -->
 <div id="myModal" class="modal">
