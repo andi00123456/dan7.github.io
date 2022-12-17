@@ -42,94 +42,17 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<html>
-<head>
-  <style type="text/css">
-    .hover_bkgr_fricc {
-      background:rgba(0,0,0,.4);
-      cursor:pointer;
-      display:none;
-      height:100%;
-      position:fixed;
-      text-align:center;
-      top:0;
-      width:100%;S
-      z-index:10000;
-  }
-  .hover_bkgr_fricc .helper {
-      display:inline-block;
-      height:100%;
-      vertical-align:middle;
-  }
-  .hover_bkgr_fricc > div {
-      background-color: #fff;
-      box-shadow: 10px 10px 60px #555;
-      display: inline-block;
-      height: auto;
-      max-width: 551px;
-      min-height: 100px;
-      vertical-align: middle;
-      width: 60%;
-      position: relative;
-      border-radius: 8px;
-      padding: 15px 5%;
-  }
-  .popupCloseButton {
-      background-color: #fff;
-      border: 3px solid #999;
-      border-radius: 50px;
-      cursor: pointer;
-      display: inline-block;
-      font-family: arial;
-      font-weight: bold;
-      position: absolute;
-      top: -20px;
-      right: -20px;
-      font-size: 25px;
-      line-height: 30px;
-      width: 30px;
-      height: 30px;
-      text-align: center;
-  }
-  .popupCloseButton:hover {
-      background-color: #ccc;
-  }
-  .trigger_popup_fricc {
-      cursor: pointer;
-      font-size: 20px;
-      margin: 20px;
-      display: inline-block;
-      font-weight: bold;
-  }
-</style>
-</head>
-<body>
-  <a class="trigger_popup_fricc">Click here to show the popup</a>
-
-<div class="hover_bkgr_fricc">
-    <span class="helper"></span>
-    <div>
-        <div class="popupCloseButton">X</div>
-        <p>Add any HTML content<br />inside the popup box!</p>
-    </div>
-</div>
-<!-- <script src="layout/scripts/jquery.min.js"></script> -->
-<script>
-  $(window).load(function () {
-    $(".trigger_popup_fricc").click(function(){
-       $('.hover_bkgr_fricc').show();
-    });
-    $('.hover_bkgr_fricc').click(function(){
-        $('.hover_bkgr_fricc').hide();
-    });
-    $('.popupCloseButton').click(function(){
-        $('.hover_bkgr_fricc').hide();
-    });
-});
-
-</script>
-</body>
-</html>
+<p @article{wang2021spatial, <br>
+  title={Spatial path tracking controllers for autonomous ground vehicles: Conventional and nonconventional schemes},<br>
+  author={Wang, Peng and An, Di and Chen, Ning and Chen, Yang Quan},<br>
+  journal={Guidance, Navigation and Control},<br>
+  volume={1},<br>
+  number={01},<br>
+  pages={2150003},<br>
+  year={2021},<br>
+  publisher={World Scientific}<br>
+}
+</p>
 
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
