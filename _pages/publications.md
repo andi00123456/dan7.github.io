@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 biliography: bibliography.bib
 ---
+<link type ="text/css" rel = "stylesheet" href = "popUp.css"/>
+<script src = "pop2.js">
+</script> 
+
 # Journal Publications
 <table style="border: none; border-collapse: collapse;" border="0">
 
@@ -42,7 +46,20 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
-<span><a class="trigger_popup_fricc"> citation ></a>
+<!-- 打开弹窗按钮 -->
+<button id="myBtn">打开弹窗</button>
+
+<!-- 弹窗 -->
+<div id="myModal" class="modal">
+
+  <!-- 弹窗内容 -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>弹窗中的文本...</p>
+  </div>
+
+</div>
+<!-- <span><a class="trigger_popup_fricc"> citation ></a>
 <span class="hover_bkgr_fricc">
     <span class="helper"></span>
     <span>
@@ -59,7 +76,7 @@ biliography: bibliography.bib
             }</p>
         </span>
     </span>
-</span>
+</span> -->
 <!-- <head>
 <meta name = "viewport" content="witdth=device-width, initial-scale=1">
 <title> Popup Vanilla Javascript</title>
