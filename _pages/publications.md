@@ -43,6 +43,8 @@ biliography: bibliography.bib
 <span><a href="https://doi.org/10.1142/S2737480721500035">paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/citation_icon.png" width="20" height="20" hspace="5" >
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 /* Popup container - can be anything you want */
 .popup {
