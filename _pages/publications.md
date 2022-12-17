@@ -5,10 +5,68 @@ permalink: /publications/
 author_profile: true
 biliography: bibliography.bib
 ---
-<link type ="text/css" rel = "stylesheet" href = "popUp.css"/>
-<script src = "pop2.js">
-</script> 
+<!-- <link type ="text/css" rel = "stylesheet" href = "popUp.css"/> -->
+<style> 
+/* 弹窗 (background) */
+.modal {
+    display: none; /* 默认隐藏 */
+    position: fixed; /* 固定定位 */
+    z-index: 1; /* 设置在顶层 */
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+}
 
+/* 弹窗内容 */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+}
+
+/* 关闭按钮 */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+</style>
+<script >
+// 获取弹窗
+var modal = document.getElementById('myModal');
+// 打开弹窗的按钮对象
+var btn = document.getElementById("myBtn");
+// 获取 <span> 元素，用于关闭弹窗
+var span = document.querySelector('.close'); 
+// 点击按钮打开弹窗
+btn.onclick = function() {
+    modal.style.display = "block";
+} 
+// 点击 <span> (x), 关闭弹窗
+span.onclick = function() {
+    modal.style.display = "none";
+}
+// 在用户点击其他地方时，关闭弹窗
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script> 
 # Journal Publications
 <table style="border: none; border-collapse: collapse;" border="0">
 
