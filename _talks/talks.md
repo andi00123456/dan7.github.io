@@ -38,11 +38,11 @@ Oral, In Person, Orlando, SPIE Conference, April, 2022
 <br>
 <h2> A Non-intrusive Quantification Method for Biochar Water Retention Capacity Using A Portable Microwave Sensor and Machine Learning </h2>
 <br>
-Oral, Virtual Online, Luxembourg, ICCMA Conference, Nov, 2021
+Oral, Virtual Online, ICCMA Conference, Nov, 2021
 
 <h2> Digital Twin enabled methane emission abatement using networked mobile sensing and mobile actuation </h2>
 <br>
-Oral, Virtual Online, Beijing, DTPI Conference, Aug, 2021
+Oral, Virtual Online, DTPI Conference, Aug, 2021
 
 <br>
 <h2> Application of Smart, Swarm and Small UAV’s for Methane Emission Reduction </h2>
