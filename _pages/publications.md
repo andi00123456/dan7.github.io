@@ -73,7 +73,7 @@ biliography: bibliography.bib
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpeg" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/batterymesa.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -92,7 +92,7 @@ biliography: bibliography.bib
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpeg" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/DTPI22_new.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -111,7 +111,7 @@ biliography: bibliography.bib
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpeg" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/frameworkICCMA22.jpg" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -130,7 +130,7 @@ biliography: bibliography.bib
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/hardware.jpeg" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/stddis.PNG" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -166,7 +166,7 @@ biliography: bibliography.bib
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/dtpi2021.png" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/icuas_krigingWork.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -219,7 +219,7 @@ biliography: bibliography.bib
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/dtpi2021.png" width="800"/>
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pointSource.PNG" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
