@@ -58,7 +58,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> A Soil Carbon Content Quantification Method Using A Miniature Millimeter Wave Radar Sensor and Machine Learning. <b> IEEE/MESA, 2022.</b> </font>
+<font size = "4"> A Soil Carbon Content Quantification Method Using A Miniature Millimeter Wave Radar Sensor and Machine Learning. IEEE/MESA, 2022. </font>
 
 <!-- <br>  change line -->
 <br>
@@ -77,7 +77,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> A Miniature Millimeter-Wave Radar Based Contactless Lithium Polymer Battery Capacity Sensing  with Edge Artificial Intelligence. <b> IEEE/MESA, 2022.</b> </font>
+<font size = "4"> A Miniature Millimeter-Wave Radar Based Contactless Lithium Polymer Battery Capacity Sensing  with Edge Artificial Intelligence. IEEE/MESA, 2022. </font>
 
 <!-- <br>  change line -->
 <br>
@@ -96,7 +96,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> A Digital Twin Enabled  Internet of Living Things (IoLT) Framework for Soil Carbon Management. <b> IEEE/MESA, 2022.</b> </font>
+<font size = "4"> A Digital Twin Enabled  Internet of Living Things (IoLT) Framework for Soil Carbon Management. IEEE/MESA, 2022. </font>
 
 <!-- <br>  change line -->
 <br>
@@ -115,7 +115,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> A Greenhouse Gas Proximity Sensing System Using Chemirisistive Strip and Miniaturized Radar Array. <b> In 2022 10th ICCMA, 2022.</b> </font>
+<font size = "4"> A Greenhouse Gas Proximity Sensing System Using Chemirisistive Strip and Miniaturized Radar Array. In 2022 10th ICCMA, 2022. </font>
 
 <!-- <br>  change line -->
 <br>
@@ -134,7 +134,7 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4">  Optimal Antenna Pairing of A Miniaturized Radar Array for Smart Sensing of Soil Carbon Conten <b> In 2022 4th IAI, 2022.</b> </font>
+<font size = "4">  Optimal Antenna Pairing of A Miniaturized Radar Array for Smart Sensing of Soil Carbon Content. In 2022 4th IAI, 2022. </font>
 
 <!-- <br>  change line -->
 <br>
@@ -153,8 +153,8 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> Smart Bi-eBikes (SBB): a low cost UGV solution for precision agriculture applications. <b> SPIE, 2022. </b></font>
-  
+<font size = "4"> Smart Bi-eBikes (SBB): a low cost UGV solution for precision agriculture applications. SPIE, 2022. </font>
+ <br> 
 <font size = "3"> <b>Di An</b>, Haoyu Niu, Levi Williams, YangQuan Chen </font>
 <br>
 
@@ -170,8 +170,8 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> A Field Study of Soil Biochar Treatment Response Using Small Unmanned Aerial Systems (sUAS). <b> In 2022 ICUAS </b> </font>
-  
+<font size = "4"> A Field Study of Soil Biochar Treatment Response Using Small Unmanned Aerial Systems (sUAS). In 2022 ICUAS. </font>
+<br>  
 <font size = "3"> <b>Di An</b>, Derek Hollenbeck, Si Gao, YangQuan Chen </font>
 <br>
 
@@ -188,9 +188,9 @@ biliography: bibliography.bib
 
 <td style="border-collapse: collapse; border: none;">
 	
-<font size = "4"> A Non-intrusive Quantification Method for Biochar Water Retention Capacity Using A Portable Microwave Sensor and Machine Learning. <b> In 2022 10th ICCMA 
-</b> </font>
-  
+<font size = "4"> A Non-intrusive Quantification Method for Biochar Water Retention Capacity Using A Portable Microwave Sensor and Machine Learning. In 2022 10th ICCMA. 
+</font>
+<br>  
 <font size = "3"> <b>Di An</b>, Haoyu Niu, YangQuan Chen </font>
 <br>
 
@@ -206,8 +206,8 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> Digital Twin enabled methane emission abatement using networked mobile sensing and mobile actuation. <b> In 2021 1st DTPI</b> </font>
-  
+<font size = "4"> Digital Twin enabled methane emission abatement using networked mobile sensing and mobile actuation. In 2021 1st DTPI. </font>
+<br>  
 <font size = "3"> <b>Di An</b>, YangQuan Chen </font>
 <br>
 
@@ -223,8 +223,8 @@ biliography: bibliography.bib
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<font size = "4"> Application of Smart, Swarm and Small UAV’s for Methane Emission Reduction. <b> In 2021 ASME </b> </font>
-  
+<font size = "4"> Application of Smart, Swarm and Small UAV’s for Methane Emission Reduction. In 2021 ASME. </font>
+<br>
 <font size = "3"> <b>Di An</b>, YangQuan Chen </font>
 <br>
 
