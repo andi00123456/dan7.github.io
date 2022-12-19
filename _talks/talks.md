@@ -24,7 +24,7 @@ Oral, In Person, Luxembourg, ICCMA Conference, Nov 2022
 
 <h2> Optimal Antenna Pairing of A Miniaturized Radar Array for Smart Sensing of Soil Carbon Content </h2>
 <br>
-Oral, In Person, Taipei, IEEE/MESA Conference, Nov 2022.
+Poster, In Person, Shenyang, IAI Conference, Aug, 2022
 
 <br>
 <h2> A Field Study of Soil Biochar Treatment Response Using Small Unmanned Aerial Systems (sUAS) </h2>
