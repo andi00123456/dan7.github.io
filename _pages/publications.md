@@ -16,12 +16,12 @@ biliography: bibliography.bib
 <td style="border-collapse: collapse; border: none;">
 <font size = "5"> Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study. Journal of Information and Intelligence, 2022. </font>
 <br>
-<font size = "3"> <b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen, <b>In press</b> </font>
+<font size = "3"> <b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen</font>
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1909.11895">arxiv paper</a></span>
-<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://doi.org/10.1016/j.jiixd.2022.11.002">paper</a></span>
+<br>
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/andi00123456/FADE-MAS2D.git">code</a></span>
 </td>
