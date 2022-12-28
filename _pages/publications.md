@@ -138,7 +138,7 @@ biliography: bibliography.bib
 
 <!-- <br>  change line -->
 <br>
-<font size = "3"> <b>Di An</b>, Michael Difrieri, YangQuan Chen, <b>In press</b> </font>
+<font size = "3"> <b>Di An</b>, Michael Difrieri, YangQuan Chen</font>
 <br>
 
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
