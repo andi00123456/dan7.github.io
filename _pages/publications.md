@@ -141,9 +141,9 @@ biliography: bibliography.bib
 <font size = "3"> <b>Di An</b>, Michael Difrieri, YangQuan Chen, <b>In press</b> </font>
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://doi.org/10.1117/12.2618728">paper</a></span>
-<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://ieeexplore.ieee.org/abstract/document/9976505">paper</a></span>
+<br>
 </td>
 </tr>
 
