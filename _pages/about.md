@@ -17,6 +17,7 @@ I have been working on <b>XAIoT</b> (eXplainable AIoT) enabled smart sensing of 
 Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking, making dessert and reading.
 
 ## News
+**January 2023:** My three papers used millimeter-wave radar to do soil carbon content, and Li-Po battery SOC sensing is published online. Another one is Digital Twin think in IoLT. Please refer to the publication site for the link!
 **November 2022:** I passed my Qualifying Examination with a unanimous pass from the Ph.D. committees, I am a PhD candidate now!
 
 ## Publications
@@ -84,9 +85,9 @@ A Soil Carbon Content Quantification Method Using A Miniature Millimeter Wave Ra
 <b>Di An</b>, YangQuan Chen, <b>In press</b>
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://doi.org/10.1117/12.2618728">paper</a></span>
-<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://ieeexplore.ieee.org/abstract/document/10004474">paper</a></span>
+<br>
 </td>
 </tr>
 
