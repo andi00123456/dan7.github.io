@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Di, a Ph.D. Candidate of Electrical Engineering and Computer Science at the University of California, Merced, [MESA (Mechatronics, Embedded Systems and Automation) Lab](https://mechatronics.ucmerced.edu/members/graduate), supervised by [Professor YangQuan Chen](https://mechatronics.ucmerced.edu/members/faculty). I earned M.Sc. of the program Electrical Engineering and Computer Science at University of California, Merced. Before coming to UC Merced in 2017, I obtained my B.E. degree in the Department of Artifical Intelligence & Technology from Beijing Information Science & Technology University (BISTU), Beijing, China in 2016. Furthermore, I attended exchange program in the Department of Electrical Engineering at San Jose State University, United States in 2015. Please find my CV [here](https://drive.google.com/file/d/12rTHOAC1x0tVZskEO_dLM2buV943hvb-/view?usp=sharing).
+Hi! I am Di, a Ph.D. Candiate of Electrical Engineering and Computer Science at the University of California, Merced, [MESA (Mechatronics, Embedded Systems and Automation) Lab](https://mechatronics.ucmerced.edu/members/graduate), supervised by [Professor YangQuan Chen](https://mechatronics.ucmerced.edu/members/faculty). I earned M.Sc. of the program Electrical Engineering and Computer Science at University of California, Merced. Before coming to UC Merced in 2017, I obtained my B.E. degree in the Department of Artifical Intelligence & Technology from Beijing Information Science & Technology University (BISTU), Beijing, China in 2016. Furthermore, I attended exchange program in the Department of Electrical Engineering at San Jose State University, United States in 2015. Please find my <b>CV</b> [here](https://drive.google.com/file/d/12rTHOAC1x0tVZskEO_dLM2buV943hvb-/view?usp=sharing) <font size = "3">(last update: 12/20/2022). </font>  
 
 
-I have been working on XAIoT enabled smart sensing of agricultural methane emissions and smart biochar applications using proximal radar arrays for fighting climate change. I have an interdisciplinarity background: electrical engineering and computer science, mechanical engineering, and environmental science, which motivates me to explore new and interesting interdisciplinarity problems in precision agriculture and carbon neutral and negative technologies.
+I have been working on <b>XAIoT</b> (eXplainable AIoT) enabled smart sensing of agricultural methane emissions and smart biochar applications using proximal radar arrays for fighting climate change. I have an interdisciplinarity background: electrical engineering and computer science, mechanical engineering, and environmental science, which motivates me to explore new and interesting interdisciplinarity problems in precision agriculture and carbon neutral and negative technologies.
 
 
 Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking, making dessert and reading.
 
 ## News
+**January 2023:** My three papers used millimeter-wave radar to do soil carbon content, and Li-Po battery SOC sensing is published online. Another one is Digital Twin think in IoLT. Please refer to the publication site for the link!
 **November 2022:** I passed my Qualifying Examination with a unanimous pass from the Ph.D. committees, I am a PhD candidate now!
 
 ## Publications
@@ -31,12 +32,12 @@ Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking
 <td style="border-collapse: collapse; border: none;">
 Soil Methane Emission Suppression Control Using Unmanned Aircraft Vehicle Swarm Application of Biochar Mulch - A Simulation Study. Journal of Information and Intelligence, 2022.
   
-<b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen, <b>In press</b>
+<b>Di An</b>, Derek Hollenbeck, Kai Cao, YangQuan Chen
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1909.11895">arxiv paper</a></span>
-<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://doi.org/10.1016/j.jiixd.2022.11.002">paper</a></span>
+<br>
 <!-- <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
 <span><a href="https://sites.google.com/view/uvc2019/">project page</a></span>
 <br> -->
@@ -84,9 +85,9 @@ A Soil Carbon Content Quantification Method Using A Miniature Millimeter Wave Ra
 <b>Di An</b>, YangQuan Chen, <b>In press</b>
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://doi.org/10.1117/12.2618728">paper</a></span>
-<br> -->
+<img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://ieeexplore.ieee.org/abstract/document/10004474">paper</a></span>
+<br>
 </td>
 </tr>
 
@@ -143,3 +144,5 @@ Digital Twin enabled methane emission abatement using networked mobile sensing a
 </td>
 </tr>
 </table>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CPjU4u17UsxhLJX3xwei9np__nqC3V0_agGPa47NwM0&cl=ffffff&w=a"></script>
