@@ -17,7 +17,7 @@ I have been working on <b>XAIoT</b> (eXplainable AIoT) enabled smart sensing of 
 Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking, making dessert and reading.
 
 ## News
-**January 2023:** My three papers used millimeter-wave radar to do soil carbon content, and Li-Po battery SOC sensing is published online. Another one is Digital Twin think in IoLT. Please refer to the publication site for the link!
+**April 2023:** My paper entitled "Long Endurance Site-Specific Management of Biochar Applications Using Unmanned Aircraft Vehicle and Unmanned Ground Vehicle" has been accepted on IFAC world Congress 2023, and another paper entitled "Battery-health-aware UAV mission planning using a cognitive battery management system" has been accepted on ICUAS 2023. Congratulations.
 <br>
 <!-- **November 2022:** I passed my Qualifying Examination with a unanimous pass from the Ph.D. committees, I am a PhD candidate now! -->
 
@@ -83,7 +83,7 @@ Peng Wang, <b>Di An</b>, Ning Chen, YangQuan Chen
 <td style="border-collapse: collapse; border: none;">
 A Soil Carbon Content Quantification Method Using A Miniature Millimeter Wave Radar Sensor and Machine Learning. IEEE/MESA, 2022.
   
-<b>Di An</b>, YangQuan Chen, <b>In press</b>
+<b>Di An</b>, YangQuan Chen
 <br>
 
 <img src="https://raw.githubusercontent.com/andi00123456/andi00123456.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
