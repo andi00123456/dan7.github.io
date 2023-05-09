@@ -17,7 +17,7 @@ I have been working on <b>XAIoT</b> (eXplainable AIoT) enabled smart sensing of 
 Besides academic work, I am big fan of FPV drone flight, cook tasty food, hiking, making dessert and reading.
 
 ## News
-**May 2023:** : Congratualtions to Di An for winning F3 (Farms Food Future) from DOC (US Dept. of Commerce), Economic Development Administration Build Back Better (BBB) Regional Challenge regarding GSR grants each with 2 semester's GSRs valued at more than $150,000. Di An project title: "Intelligent Soil Carbon Assessment Network (iScan): An XAIoT Empowered Unmanned System Based Mobile Sensing Solution"  (Climate Smart Food Systems; Climate Resilience and Regenerative Agriculture; Mechatronics; Internet-of-Things, Edge Computing). Here's the press release of UC Merced: https://graduatedivision.ucmerced.edu/news/2023/uc-merced-invests-next-generation-ag-tech-leadership
+**May 2023:** : Congratualtions to Di An for winning F3 (Farms Food Future) from DOC (US Dept. of Commerce), Economic Development Administration Build Back Better (BBB) Regional Challenge regarding GSR grants each with 2 semester's GSRs valued at more than $150,000. Di An project title: "Intelligent Soil Carbon Assessment Network (iScan): An XAIoT Empowered Unmanned System Based Mobile Sensing Solution"  (Climate Smart Food Systems; Climate Resilience and Regenerative Agriculture; Mechatronics; Internet-of-Things, Edge Computing). Here's the [press](https://graduatedivision.ucmerced.edu/news/2023/uc-merced-invests-next-generation-ag-tech-leadership) release of UC Merced.
 <br>
 <!-- **November 2022:** I passed my Qualifying Examination with a unanimous pass from the Ph.D. committees, I am a PhD candidate now! -->
 
